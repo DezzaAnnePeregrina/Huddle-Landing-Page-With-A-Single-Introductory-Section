@@ -45,7 +45,6 @@ main{
     color: white;
     flex-direction: column;
     gap: .8rem;
-    margin: 2.7rem 2rem 0 2rem ;
     padding: 2rem 5rem;
 }
 
@@ -112,13 +111,12 @@ main{
 }
 
 .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: white; }
 
 @media (max-width:800px) {
     main{
         background-image: url(/images/bg-mobile.svg);
         padding: 2rem;
-        margin: 0;
         gap: 3rem;
     }
     .mockups{
