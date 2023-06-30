@@ -44,7 +44,7 @@ main{
     color: white;
     flex-direction: column;
     gap: .8rem;
-    padding: 2rem 5rem;
+    padding: 3rem 5rem;
     min-height: 100vh;
     overflow: hidden;
 }
